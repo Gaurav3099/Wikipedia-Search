@@ -61,5 +61,6 @@ body{
   border-style:groove;
   border-color: black;
   border-radius: 25px;
-  background-color:whitesmoke
+  background-color:whitesmoke;
+    justify-content: space-between;
 }
